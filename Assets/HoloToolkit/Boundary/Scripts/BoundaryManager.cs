@@ -14,6 +14,7 @@ namespace HoloToolkit.Unity.Boundary
     /// <summary>
     /// Places a floor quad to ground the scene.
     /// Allows you to check if your GameObject is within setup boundary on the immersive headset.
+    /// Adding a dummy comment.
     /// </summary>
     public class BoundaryManager : Singleton<BoundaryManager>
     {
